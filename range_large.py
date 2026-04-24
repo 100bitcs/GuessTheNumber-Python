@@ -2,7 +2,7 @@ import random
 
 #~ For large range of 1 - 1000.
 
-def rng_lar():
+def rng_lrg():
     num=random.randrange(1,1001)
     count=0
     while True:
