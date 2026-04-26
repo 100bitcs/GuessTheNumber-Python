@@ -17,5 +17,6 @@ def rng_med():
                 print("UP THERE!!")
             elif ans ==num:
                 print("YOU GOT IT!!")
+                print("-"*40)
                 break
     print(f"YOU HAVE TAKEN {count} GUESSES.")
